@@ -15,6 +15,8 @@ from sim_exceptions.goal_reached_exception import GoalReachedException
 
 REFRESH_RATE = 20.0  # hertz
 
+print("")
+
 
 class Simulator:
     def __init__(self):
